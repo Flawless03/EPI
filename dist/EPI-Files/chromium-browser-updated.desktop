@@ -1,0 +1,13 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Type=Application
+Exec=chromium --kiosk "http://10.8.15.119/evue_by_ip"
+Hidden=false
+X-MATE-Autostart-enabled=true
+Name[en_US]=Chrome
+Name=Chrome
+Comment[en_US]=Sort Kiosk
+Comment=Chrome Sort
+X-MATE-Autostart-Delay=5
+
